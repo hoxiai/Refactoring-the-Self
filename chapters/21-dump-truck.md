@@ -235,3 +235,5 @@
 ---
 
 [← 上一章：爬上车顶，看见星星还有奶奶](./20-sleeping-on-roof.md) | [返回目录](../README.md) | [下一章：失恋的朋友，和一家叫"轻松一点"的网吧 →](./22-lighten-up.md)
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/21-dump-truck)

@@ -2,10 +2,10 @@
 
 ## —— 一輛摩托車、一個跟頭，以及開始塌掉的人生
 
-時間一天天的過， 那段不出車的時間， 我會遊走在各個修理廠車間。
+時間一天天地過，那段不出車的時間，我會遊走在各個修理廠車間。
 
 這是我最熟悉的地方。
- 
+
 天雷那裏，我去的最多。
 
 在亞興的最裏面，是一家的士修車店。
@@ -64,6 +64,6 @@
 
 ---
 
-[← 上一章：人開始變得不耐煩的時候](./16-afterglow-of-windfall.md) | [返回目錄](../README.md) | [下一章：欠債 →](./18-debt.md)
+[← 上一章：人開始變得不耐煩的時候](./16-afterglow-of-windfall.md) | [返回目錄](../README.md) | [下一章：4800塊、3600塊，和再也借不到的錢 →](./18-debt.md)
 
 ![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/17-motorcycle-crash)

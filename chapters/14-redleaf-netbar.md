@@ -6,7 +6,7 @@
 
 有时候车刚跑完一趟，就得空下来。不是要休息，是本来就不是每天都有货跑。
 
-不跑货的时候，我们就会去常去的几个修理厂转转。车子有问题，除了去肖师傅那里，也会去周边的修理厂。
+不跑货的时候，我们就会去常去的几个修理厂转转。车子有问题，除了去肖叔那里，也会去周边的修理厂。
 
 老车站附近一直很热闹。
 
@@ -282,6 +282,6 @@ QQ打开了。
 
 ---
 
-[← 上一章：从修理槽出来](./13-on-the-road.md) | [返回目录](../README.md) | [下一章：一个轮胎、三百块钱 →](./15-first-boundary.md)
+[← 上一章：107国道的夜风](./13-on-the-road.md) | [返回目录](../README.md) | [下一章：一个轮胎、三百块钱 →](./15-first-boundary.md)
 
 ![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/14-redleaf-netbar)

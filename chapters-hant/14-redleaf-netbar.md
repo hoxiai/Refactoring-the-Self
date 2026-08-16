@@ -6,7 +6,7 @@
 
 有時候車剛跑完一趟，就得空下來。不是要休息，是本來就不是每天都有貨跑。
 
-不跑貨的時候，我們就會去常去的幾個修理廠轉轉。車子有問題，除了去肖師傅那裏，也會去周邊的修理廠。
+不跑貨的時候，我們就會去常去的幾個修理廠轉轉。車子有問題，除了去肖叔那裏，也會去周邊的修理廠。
 
 老車站附近一直很熱鬧。
 
@@ -282,6 +282,6 @@ QQ打開了。
 
 ---
 
-[← 上一章：從修理槽出來](./13-on-the-road.md) | [返回目錄](../README.md) | [下一章：一個輪胎、三百塊錢 →](./15-first-boundary.md)
+[← 上一章：107國道的夜風](./13-on-the-road.md) | [返回目錄](../README.md) | [下一章：一個輪胎、三百塊錢 →](./15-first-boundary.md)
 
 ![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/14-redleaf-netbar)

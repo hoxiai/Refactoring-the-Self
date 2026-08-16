@@ -84,6 +84,6 @@
 
 ---
 
-[← 上一章：喂不飽的無底洞與五百萬的夢](./11-before-new-year.md) | [返回目錄](../README.md) | [下一章：從修理槽出來 →](./13-on-the-road.md)
+[← 上一章：喂不飽的無底洞與五百萬的夢](./11-before-new-year.md) | [返回目錄](../README.md) | [下一章：107國道的夜風 →](./13-on-the-road.md)
 
 ![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/12-lit-up)
