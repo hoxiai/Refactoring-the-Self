@@ -65,7 +65,9 @@
 
 👉 [阅读 第23章：《传奇私服》](./chapters/23-legend-private-server.md)
 
-👉 [阅读 第24章：《HTML》（预告）](./chapters/24-html.md)
+👉 [阅读 第24章：《HTML》](./chapters/24-html.md)
+
+👉 [阅读 第25章：《可视聊天》（预告）](./chapters/25-video-chat.md)
 
 ### 番外篇
 
@@ -79,7 +81,7 @@
 
 👉 [这么多年，我还是最习惯 phpMyAdmin](./blog/gopanel-database-management.md)
 
-👉 [我同时用 4 个 AI，不是因为我有钱](./blog/how-i-use-ai-tools.md)
+👉 [支持李想，支持理想！](./blog/lixiang-ideal.md)
 
 ### 为什么写《底层重构》
 

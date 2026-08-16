@@ -172,6 +172,6 @@
 
 ---
 
-[← 上一章：失恋的朋友，和一家叫“轻松一点”的网吧](./22-lighten-up.md) | [返回目录](../README.md) | [下一章：源码、《爱相随》，和第一次改掉屏幕里的东西 →](./24-html.md)
+[← 上一章：失恋的朋友，和一家叫"轻松一点"的网吧](./22-lighten-up.md) | [返回目录](../README.md) | [下一章：网页三剑客、照抄的代码，和免费空间 →](./24-html.md)
 
 ![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=chapters/23-legend-private-server)

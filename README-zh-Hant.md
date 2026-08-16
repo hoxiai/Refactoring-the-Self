@@ -68,7 +68,9 @@
 
 👉 [閲讀 第23章：《傳奇私服》](./chapters/23-legend-private-server.md)
 
-👉 [閲讀 第24章：《HTML》（預告）](./chapters/24-html.md)
+👉 [閲讀 第24章：《HTML》](./chapters/24-html.md)
+
+👉 [閲讀 第25章：《可視聊天》（預告）](./chapters/25-video-chat.md)
 
 ### 番外篇
 
@@ -82,7 +84,7 @@
 
 👉 [這麼多年，我還是最習慣 phpMyAdmin](./blog/gopanel-database-management.md)
 
-👉 [我同時用 4 個 AI，不是因為我有錢](./blog/how-i-use-ai-tools.md)
+👉 [支持李想，支持理想！](./blog/lixiang-ideal.md)
 
 ### 為什麼寫《底層重構》
 
