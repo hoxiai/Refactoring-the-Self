@@ -138,7 +138,7 @@
 
 支持理想，也不是只支持这辆车。
 
-是支持一个 [《底层重构》](https://github.com/aihop/Refactoring-the-Self) 的自己。
+是支持一个 [《底层重构》](https://github.com/hoxiai/Refactoring-the-Self) 的自己。
 
 车是理想。
 

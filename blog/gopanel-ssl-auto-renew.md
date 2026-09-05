@@ -114,7 +114,7 @@ GoPanel 是一个开源的服务器管理面板，支持多服务器管理。
 
 👉 [在线演示](https://demo.gopanel.run)
 
-👉 [GoPanel GitHub](https://github.com/aihop/gopanel)
+👉 [GoPanel GitHub](https://github.com/hoxiai/gopanel)
 
 
 ### 最后

@@ -6,7 +6,7 @@
 
 起因非常朴素，甚至有点寒酸：
 
-我在 GitHub 上连载 [《底层重构》](https://github.com/aihop/Refactoring-the-Self)，写的时候挺起劲，更新也一直没断，但有一个问题特别真实：
+我在 GitHub 上连载 [《底层重构》](https://github.com/hoxiai/Refactoring-the-Self)，写的时候挺起劲，更新也一直没断，但有一个问题特别真实：
 
 我是真不知道到底有没有人在看。
 
@@ -224,14 +224,14 @@ UV 目前是基于 `IP + User-Agent` 做哈希，Bot 也做了一层简单识别
 
 ## 关于项目：
 
-项目地址： https://github.com/aihop/svgstat
+项目地址： https://github.com/hoxiai/svgstat
 
 在线体验： https://svgstat.com
 
 
 ## 预览
 
-![SVGStat 控制台预览](https://github.com/aihop/svgstat/raw/main/preview_zh.png)
+![SVGStat 控制台预览](https://github.com/hoxiai/svgstat/raw/main/preview_zh.png)
 
 
 ![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=blog/lightweight-svg-analytics-for-serial-novels&label=Visits)

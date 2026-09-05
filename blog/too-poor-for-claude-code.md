@@ -50,7 +50,7 @@ GPT说：思路是对的，干吧，很有前途的想法。
 
 贴出来，给兄弟们看看 →
 
-完整 Prompt 已归档到项目文档 👉 [docs/dsb.md](https://github.com/aihop/Refactoring-the-Self/blob/main/docs/dsb.md)
+完整 Prompt 已归档到项目文档 👉 [docs/dsb.md](https://github.com/hoxiai/Refactoring-the-Self/blob/main/docs/dsb.md)
 
 简单的过了一下， MCP 了解过，但没深入。
 
@@ -78,7 +78,7 @@ GPT说：思路是对的，干吧，很有前途的想法。
   "mcpServers": {
     "dsb": {
       "command": "node",
-      "args": ["/aihop/dsb/dist/mcp-server.js"],
+      "args": ["/hoxiai/dsb/dist/mcp-server.js"],
       "env": {
         "DSB_LLM_BASE_URL": "http://127.0.0.1:1234/v1",
         "DSB_LLM_API_KEY": "ds-local",
@@ -185,7 +185,7 @@ GPT 反驳说：Claude Code 你只看到了“当前编辑行为”，但 dsb �
 
 这本书的内容我同步托管在 GitHub 上连载：
 
-👉 https://github.com/aihop/Refactoring-the-Self
+👉 https://github.com/hoxiai/Refactoring-the-Self
 
 我想，与其把这些留在自己的垃圾箱里，不如沿着这个思路继续写下去，毫无保留地分享给大家伙。
 

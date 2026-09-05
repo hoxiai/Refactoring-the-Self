@@ -84,7 +84,7 @@ GoPanel 是一个开源的服务器管理面板，支持多服务器管理。
 
 👉 [在线演示](https://demo.gopanel.run)
 
-👉 [GoPanel GitHub项目地址](https://github.com/aihop/gopanel)
+👉 [GoPanel GitHub项目地址](https://github.com/hoxiai/gopanel)
 
 开源免费，自己部署，数据在你自己服务器上。
 
@@ -98,7 +98,7 @@ phpMyAdmin 教会了我这一点。我只是把它搬了个家。
 
 一直关注我的朋友应该知道，我最近一直在写《底层重构》，这些年我做过的项目、思考的点、对产品的理解、遇到的问题以及解决方案，后续的故事连载里都会写进去。
 
-有兴趣的朋友欢迎看看：👉 [底层重构](https://github.com/aihop/Refactoring-the-Self)
+有兴趣的朋友欢迎看看：👉 [底层重构](https://github.com/hoxiai/Refactoring-the-Self)
 
 咱长长久久。
 
