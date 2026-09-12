@@ -114,4 +114,6 @@
 
 关上办公室的门，我开车回家的路上，看着沿途的路灯一盏盏飞速向后退去，恍惚之间，又好像回到了二十多年前在 107 国道上晃荡的那些夜晚。
 
-车还没开，人先散了。
+车是散了，但路还在。开通这个账号没别的心思，既然退无可退，那后面这趟车，我自己一个人把它开下去。
+
+![Visits](https://svgstat.com/svg/refactoring-the-self/counter/visits.svg?page_id=blog/car-not-started-people-already-gone)
