@@ -83,6 +83,10 @@
 
 👉 [支持李想，支持理想！](./blog/lixiang-ideal.md)
 
+👉 [车还没开，人先散了](./blog/car-not-started-people-already-gone.md)
+
+👉 [杀死那个“自嗨”的工匠](./blog/kill-the-self-absorbed-craftsman.md)
+
 ### 为什么写《底层重构》
 
 人生和软件系统其实很像。都会积累技术债，都会经历失控，也都需要不断重构。
